@@ -1,0 +1,94 @@
+{
+    "nodes":[
+        {
+            "type": "blue",
+            "x": -400,
+            "y": 100,
+            "name": "default",
+            "att": "botType: Twitterbot",
+            "meth": "+ generateText(): String"
+        },
+        {
+            "type": "darkred",
+            "x": 400,
+            "y": 100,
+            "name": "BOTS",
+            "att": "botType: Generic;",
+            "meth": "+ generateText(): String"
+        },
+        {
+            "type": "red",
+            "x": 200,
+            "y": 350,
+            "name": "Kittlerbot",
+            "att": "botType: Twitterbot;currentMarkovChain: String;",
+            "meth": "+ generateText(): String;+ feedNgram(text: String): Void;+ generateNgram(): String"
+        },
+        {
+            "type": "red",
+            "x": 575,
+            "y": 350,
+            "name": "Anna d'Ikea",
+            "att": "botType: Chatbot;",
+            "meth": "+ onLoadPage(): Void"
+        },
+        {
+            "type": "red",
+            "x": 900,
+            "y": 400,
+            "name": "Radio Free Robots",
+            "att": "bottype: Chatbot;bottype: Text-to-Speech",
+            "meth": "+ onConnection(initialize: String): Void"
+        },
+        {
+            "type": "red",
+            "x": 300,
+            "y": 1000,
+            "name": "Nakedness Detection",
+            "att": "botType: Pattern Recognizer;neuralNetwork: String;",
+            "meth": "+ sortImages(): Integer;+ parse(text: String): Void;+ generateSchema(): String"
+        },
+        {
+            "type": "red",
+            "x": 500,
+            "y": 1200,
+            "name": "High Frequency Trader",
+            "att": "botType: Financial Algorithm;",
+            "meth": "+ onLoadPage(): Void"
+        },
+        {
+            "type": "darkgreen",
+            "x": 1600,
+            "y": 2200,
+            "name": "ANIMALS",
+            "att": "animalType: String",
+            "meth": "+ getName(): String;+ getSound(): mp3;+ makeSpeake(): mp3"
+        },
+        {
+            "type": "green",
+            "x": 1400,
+            "y": 2400,
+            "name": "Chat",
+            "att": "animalType: String;habitat: String;nourriture: String",
+            "meth": "+ eat(): Void;+ sleep(): String;+ communicate(): Void"
+        },
+        {
+            "type": "green",
+            "x": 1800,
+            "y": 2400,
+            "name": "Ver de terre",
+            "att": "animalType: String;habitat: String;nourriture: String",
+            "meth": "+ eat(): Void;+ sleep(): String;+ communicate(): Void"
+        }
+
+    ],
+    "links":[
+        {"source":1,"target":2},
+        {"source":1,"target":3},
+        {"source":1,"target":4},
+        {"source":1,"target":5},
+        {"source":1,"target":6},
+        {"source":7,"target":8},
+        {"source":7,"target":9}
+    ]
+}

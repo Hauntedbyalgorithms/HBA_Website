@@ -1,0 +1,1154 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CACH",
+				"CACHE_PATH〔constant〕"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"publicaio",
+				"publication_id"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"page",
+				"page-break-after"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"json_",
+				"json_encode〔function〕"
+			],
+			[
+				"genera",
+				"generate_structure"
+			],
+			[
+				"structur",
+				"$structure_item〔variable〕"
+			],
+			[
+				"post",
+				"post_ID"
+			],
+			[
+				"pos",
+				"post_ID"
+			],
+			[
+				"gen",
+				"generate_epub"
+			],
+			[
+				"plugn",
+				"pluginPath"
+			],
+			[
+				"add",
+				"addFile〔function〕"
+			],
+			[
+				"par",
+				"parse"
+			],
+			[
+				"main",
+				"main_parent_id"
+			],
+			[
+				"addC",
+				"addChapter"
+			],
+			[
+				"cach",
+				"cachePath"
+			],
+			[
+				"plug",
+				"pluginPath"
+			],
+			[
+				"epub",
+				"$epub_name〔variable〕"
+			],
+			[
+				"_pos",
+				"$_POST〔variable〕"
+			],
+			[
+				"mp",
+				"mp_gallery_image"
+			],
+			[
+				"plu",
+				"pluginPath"
+			],
+			[
+				"requi",
+				"require_once〔function〕"
+			],
+			[
+				"mult",
+				"multipublisher"
+			],
+			[
+				"requ",
+				"require_once〔keyword〕"
+			],
+			[
+				"mp_",
+				"mp_url〔function〕"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-box〔value〕"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"bac",
+				"background-clip: 〔property〕"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"str",
+				"structure_field"
+			],
+			[
+				"aff",
+				"afficherParties_key"
+			],
+			[
+				"affich",
+				"afficherParties_field"
+			],
+			[
+				"ch",
+				"check_field〔function〕"
+			],
+			[
+				"word",
+				"word-wrap: 〔property〕"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"base",
+				"baseline〔value〕"
+			],
+			[
+				"includ",
+				"include_once〔keyword〕"
+			],
+			[
+				"I",
+				"ISBN"
+			],
+			[
+				"ob",
+				"ob_end_flush"
+			],
+			[
+				"ad",
+				"addChapter  (function)"
+			],
+			[
+				"i",
+				"!important  (value)"
+			],
+			[
+				"cu",
+				"current-menu-item"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padin",
+				"padding-left"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"colum",
+				"column-count:   (property)"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"im",
+				"important	!important"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"alert",
+				"alerte_tab_loc"
+			],
+			[
+				"text-",
+				"text-transform:   (property)"
+			],
+			[
+				"sequence",
+				"sequenceTimeline"
+			],
+			[
+				"array_",
+				"array_pop  (function)"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"seq",
+				"seqItemSelected"
+			],
+			[
+				"refre",
+				"refreshSequenceSlide"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"minut",
+				"pixOneMinute"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"d",
+				"dblclick  (function)"
+			],
+			[
+				"slid",
+				"slide_info"
+			],
+			[
+				"ac",
+				"actionAfterClose"
+			],
+			[
+				"info",
+				"info_to_refresh"
+			],
+			[
+				"event",
+				"event_selector"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"slide",
+				"slide_item"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"r",
+				"retour  (variable)"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"webkit-background",
+				"-webkit-background-size:   (property)"
+			],
+			[
+				"ref",
+				"ref_target"
+			],
+			[
+				"ST",
+				"stdClass  (class)"
+			],
+			[
+				"_id",
+				"_id_archive_ecran"
+			],
+			[
+				"Get",
+				"GetSQLValueString"
+			],
+			[
+				"form",
+				"formulaire_content"
+			],
+			[
+				"dat",
+				"data_screens"
+			],
+			[
+				"id",
+				"id_groupe"
+			],
+			[
+				"he",
+				"head	Tag"
+			],
+			[
+				"p",
+				"param	@param"
+			],
+			[
+				"Sl",
+				"Slide"
+			],
+			[
+				"doc",
+				"doc_s	Function Signature"
+			],
+			[
+				"doc_",
+				"doc_d	Constant Definition"
+			],
+			[
+				"http",
+				"http_head"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"sim",
+				"simplepie-1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "spine.json",
+			"settings":
+			{
+				"buffer_size": 185,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1032,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cache.php",
+			"settings":
+			{
+				"buffer_size": 1000,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/loic/Sites/HEAR-web.imprimer/theophile/index.php",
+			"settings":
+			{
+				"buffer_size": 2973,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/loic/Sites/Site_TRANSPLANT/_RECHERCHES/IMAGE/webcam.php",
+			"settings":
+			{
+				"buffer_size": 528,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ajax.php",
+			"settings":
+			{
+				"buffer_size": 243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 55,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"fun",
+				"Snippet: Function"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Snippet: stylesheet_link_tag"
+			],
+			[
+				"java",
+				"Snippet: javascript_include_tag"
+			],
+			[
+				"func",
+				"Snippet: Function"
+			],
+			[
+				"class",
+				"Snippet: Class Variable"
+			],
+			[
+				"clas",
+				"Snippet: Class"
+			],
+			[
+				"c++",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"ht",
+				"Snippet: <?php $this->… ?>"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/loic/Desktop/demo-svg.html",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/css/editor-style.css",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/mp.class.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/css/mp-admin.css",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/README.md",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/structure.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/vendor/grandt/phpepub/src/PHPePub/Core/EPub.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/open-posts.js",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/themefiles/single-chapitre.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/links-comments.md",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/themefiles/style.css",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/themefiles/single-publication.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/themes/cdf/header.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/composer.json",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/themefiles/single-edition.php",
+		"/Users/loic/Sites/Site_CDF/.htaccess",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/lib/epub-2014-09-21/EPub.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/public/mp.functions.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/mybuttons.js",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/js/mp-admin.js",
+		"/Users/loic/Sites/Site_GLUCK/wp-content/themes/gluck/skrollr.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/myscript.js",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/mp-settings.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/views/ajax-dialog-partie.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/open-posts.js",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/themesfiles/single-edition.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/mp.public.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/bash-epub.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/com.apple.ibooks.display-options.xml",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/zip/com.apple.ibooks.display-options - copie.xml",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/zip/com.apple.ibooks.display-options.xml",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/readme.txt",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/views/mp-gallery.html",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/views/mp-gallery.php",
+		"/Users/loic/Sites/Site_CDF/wp-admin/includes/template.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/mp.My_meta_box.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/public/function.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/zip/index.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/themes/cdf/functions.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/views/meta-edition.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/views/class.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/_exemples/relationship-1.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/_exemples/relationship-2.php",
+		"/Users/loic/Sites/Site_WLG/wp-content/plugins/the-events-calendar/the-events-calendar.php",
+		"/Users/loic/Sites/Site_WLG/wp-content/plugins/the-events-calendar/lib/tribe-event-api.class.php",
+		"/Users/loic/Sites/Site_WLG/wp-content/plugins/the-events-calendar/lib/tribe-template-factory.class.php",
+		"/Users/loic/Sites/Site_WLG/wp-content/plugins/the-events-calendar/lib/tribe-templates.class.php",
+		"/Users/loic/Sites/Site_WLG/wp-content/plugins/the-events-calendar/lib/the-events-calendar.class.php",
+		"/Users/loic/Sites/Site_WLG/wp-content/plugins/the-events-calendar/public/template-tags/venue.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/multi-publisher.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/views/option.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/index.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/settings.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/option.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/options.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/option-admin.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/themes/cdf/home.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/themes/cdf/style.css",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/index.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/data/style-H.css",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/data/CDF_essais-web-H-images.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/data/CDF_essais-web-H.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/data/CDF_essais-web-H-content.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/bash.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/img/defileur_droite.png",
+		"/Users/loic/Sites/Site_CDF/wp-content/themes/cdf/footer.php",
+		"/Users/loic/Sites/Site_CDF/wp-content/themes/cdf/sidebar.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/font/TimesNewRomanPSMT/TimesNewRomanPSMT-Regular.css",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/font/ArialBlack/arialblack.css",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/data/style-3.css",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/inc/epub-2014-09-21/EPub.Example3.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/composer.json",
+		"/Users/loic/Sites/Site_CDF/wp-content/themes/cdf/css/editor-style.css",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/inc/epub-2014-09-21/EPub.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/data/CDF_essais-web-H.html",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/inc/epub-2014-09-21/EPub.Example1.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/content.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/inc/eBookLib_v0.7/ebookData.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/inc/eBookLib_v0.7/ebookWrite.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/inc/eBookLib_v0.7/ebook.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/css2inline.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/data/CDF_essais-web-E1.html",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/vendor/justinrainbow/epub/tests/ePub/Tests/fixtures/the-velveteen-rabbit/META-INF/container.xml",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/vendor/justinrainbow/epub/tests/ePub/Tests/fixtures/the-velveteen-rabbit/metadata.opf",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/vendor/justinrainbow/epub/tests/ePub/Tests/fixtures/the-velveteen-rabbit/mimetype",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/vendor/justinrainbow/epub/tests/ePub/Tests/fixtures/the-velveteen-rabbit/toc.ncx",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/vendor/justinrainbow/epub/tests/ePub/Tests/Writer/WriterTest.php",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/data/style.css",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/inc/InlineStyle-1.2.5/composer.json",
+		"/Users/loic/Sites/Site_CDF/_RECHERCHE/inc/InlineStyle-1.2.5/InlineStyle/Tests/InlineStyleTest.php",
+		"/Users/loic/Sites/Site_TRANSPLANT/_RECHERCHES/_html-v4/wall.html",
+		"/Users/loic/Sites/Site_TRANSPLANT/_RECHERCHES/_html-v4/index.html",
+		"/Users/loic/Sites/Site_TRANSPLANT/wp-content/themes/ralstonbau/503.php",
+		"/Users/loic/Sites/Site_TRANSPLANT/wp-content/themes/ralstonbau/footer.php",
+		"/Users/loic/Multisites/sciencespo/plasma/classe/classe_slide.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/js/script.js",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_slide.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/meteo/index.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/meteo/script.js",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/meteo/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_fonctions.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_spuser.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/admin-comptes.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_organisme.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/admin-organismes.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/plasma-modif.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/ecran-list-bloc.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/admin-organisme-list-bloc.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_ecran.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/ecran-suppr.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/js/fonctions.js",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/ecran-groupe-list-bloc.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/admin-groupes.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/structure/admin-groupes-modif.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/image/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/image/structure.json",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/js/uploadifive-v1.1.2-standard/Sample/check-exists.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/import_slide_json.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/ajax/uploadifive.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/classe/classe_meteo.php",
+		"/Users/loic/Dropbox/COURS/STRASBOURG/Premières lignes MAMCS/site/index.html",
+		"/Users/loic/Dropbox/COURS/STRASBOURG/Premières lignes MAMCS/site/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/js/uploadifive-v1.1.2-standard/Sample/index.php",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/css/slideshow.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/compte_a_rebours/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/default/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/evenements/style.css",
+		"/Users/loic/Sites/Site_SCIENCESPO_PLASMA/slides_templates/sports/style.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"page",
+			"emphase",
+			"mp-admin",
+			"mp_admin_init",
+			"admin.css",
+			"mp_admin_css",
+			"add_filter",
+			"mpe_",
+			"mp_admin_init",
+			"mp_",
+			"mp_public",
+			"mp_styles",
+			"style\nmp_styles",
+			"style\nstyle",
+			"style",
+			"editor-style",
+			"editor",
+			"mp_admin_init",
+			"my_tinymce_button",
+			"my_register_tinymce_button",
+			"mp_get_publication_json_struture",
+			"analyse_structure",
+			"generate_epub",
+			"add_meta_box_edition",
+			"my_theme_redirect",
+			"my_tinymce_button",
+			"getEditionStructure",
+			"save",
+			"generate_publication_callback",
+			"epub",
+			"<?php //echo MultiPublisher::$publicationType; ?>\n",
+			"::$pluginPath",
+			"MultiPublisher::$pluginPath",
+			"templa",
+			"addFil",
+			"META-INF",
+			"addFile",
+			"META-INF",
+			"my_theme_redirect",
+			"template",
+			"mp_header",
+			"bookRoot",
+			"$this->bookRoot",
+			"\";\n",
+			"META",
+			"addFile",
+			"epub",
+			"my_theme_redirect",
+			"ances",
+			"my_theme_redirect",
+			"ajax",
+			"wpb_list_child_pages",
+			"ajax",
+			"add_meta_box_edition",
+			"add_apple_xml",
+			"dialog_^",
+			"dialog",
+			"diaolg",
+			"/**",
+			"callback",
+			"dialog_partie_callback",
+			"my_theme_redirect",
+			"do_theme_redirect",
+			"epub",
+			"filename",
+			"epub",
+			"CHAPITRE",
+			"find",
+			"wp_ajax_find_posts",
+			"kc-find-post",
+			"kc-find-post\"",
+			"loadLibraries",
+			"mp_admin_init",
+			"color",
+			"loadLibraries",
+			"content-box",
+			"border-box",
+			".js",
+			"include",
+			"some_meta_box_name",
+			"chpater",
+			"loadLibraries",
+			"editionArgs",
+			"do_theme_redirect",
+			"add_meta_box",
+			"render_meta_box_content",
+			"multi-publisher.class.php",
+			"META-INF",
+			"taxonomy",
+			"taxonomu",
+			"category",
+			"<?",
+			"addCapabilities",
+			"register_post_type",
+			"venue",
+			"$instance",
+			"baw_settings_page",
+			"red",
+			"#F00",
+			"</br>",
+			"Wolman",
+			"<br>",
+			"Pasolini",
+			"pasolini",
+			"<p>",
+			"<br>",
+			"br",
+			"fileDir",
+			"impor",
+			"css",
+			"temp",
+			"manifest",
+			"spineData",
+			"contentFolder",
+			"is_empty_dir",
+			"manifest",
+			"setSpine",
+			"current",
+			"menu",
+			".nav",
+			".scroll",
+			"scroll",
+			"box",
+			"get_ecran_info",
+			"plasma_id",
+			"order_slideshow_json",
+			"generate_slide",
+			"slide_id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"data-timeline-item"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "spine.json",
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 1032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								7
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cache.php",
+					"settings":
+					{
+						"buffer_size": 1000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								30
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/loic/Sites/HEAR-web.imprimer/theophile/index.php",
+					"settings":
+					{
+						"buffer_size": 2973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/loic/Sites/Site_TRANSPLANT/_RECHERCHES/IMAGE/webcam.php",
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ajax.php",
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config.php",
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								23
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/loic/Sites/Site_SCIENCESPO_RSS/sp-rss.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}

@@ -79,7 +79,7 @@ class Cache
 		}
 
 
-		$html_export = $purifier->purify( $html_export );
+		//$html_export = $purifier->purify( $html_export );
 
 
 		$file_name = CACHE_PATH.self::cleanup_name($url);
